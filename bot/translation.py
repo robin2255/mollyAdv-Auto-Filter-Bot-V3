@@ -10,7 +10,7 @@ class Translation(object):
 ONLY FOR @mollywoodmoviesworld 🔥🔥😝
 
 For More Details Click Help Button Below..
-@mollywoodmoviesworld
+<b>@mollywoodmoviesworld
 </i>"""    
     
     HELP_TEXT = """
