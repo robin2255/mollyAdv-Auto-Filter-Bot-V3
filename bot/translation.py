@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-ONLY FOR @mollywoodmoviesworld 🔥🔥😝
+<b>ONLY FOR @mollywoodmoviesworld 🔥🔥😝
 
 For More Details Click Help Button Below..
 <b>@mollywoodmoviesworld</b>
