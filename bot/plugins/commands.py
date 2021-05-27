@@ -89,12 +89,11 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('📣CHANNEL', url='https://t.me/ott_movies_world'),
-        InlineKeyboardButton('GROUP💬', url ='https://t.me/mollywoodmoviesworld')
+        InlineKeyboardButton('⚠️ JOIN', url='https://t.me/joinchat/5UxSr0XIphVhYjc9'),
+        InlineKeyboardButton('🕵‍♂ CREATOR', url ='https://t.me/Wafikh')
     ],[
-        InlineKeyboardButton('CREATOR✨', url='https://t.me/Wafikh')
-    ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('💡 HELP', callback_data="help"),
+        InlineKeyboardButton('🔐 CLOSE', callback_data="close")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
