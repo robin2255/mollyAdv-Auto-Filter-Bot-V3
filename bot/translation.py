@@ -14,13 +14,13 @@ class Translation(object):
 <b>നീ ഏതാ..... ഒന്ന് പോടെയ് അവൻ help ചോയ്ച്ച് വന്നിരിക്കുന്നു😤...I'm Different Bot U Know</b>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>○ ᴍʏ ɴᴀᴍᴇ</b> : 𝗠𝗮𝘀𝘁𝗲𝗿
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Wafikh">🄿🅁🄾🄵🄴🅂🅂🄾🅁</a></i></b>
+<b>○ ʟᴀɴɢᴜᴀɢᴇ</b> : ᴘʏᴛʜᴏɴ
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>○ ғʀᴀᴍᴇᴡᴏʀᴋ</b> : ᴘʏʀᴏɢʀᴀᴍ
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>○ ᴄʀᴇᴀᴛᴏʀ</b> : <b><i><a href="https://t.me/Wafikh">🄿🅁🄾🄵🄴🅂🅂🄾🅁</a></i></b>
 
-<b>➥ Source Code</b> : <i><a href="https://t.me/kurachkanjiedukkatte/8">DoNt Click HeRe</a></i>
+<b>○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</b> : 🔐
 """
