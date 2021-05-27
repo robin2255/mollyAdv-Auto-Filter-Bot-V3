@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'JOIN OUR CHANNEL', url="https://t.me/ott_movies_world"
+                                    '⚠️ JOIN OUR CHANNEL ⚠️', url="https://t.me/ott_movies_world"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'JOIN OUR CHANNEL', url="https://t.me/ott_movies_world"
+                                    '⚠️ JOIN OUR CHANNEL ⚠️', url="https://t.me/ott_movies_world"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'JOIN OUR CHANNEL', url="https://t.me/ott_movies_world"
+                                    '⚠️ JOIN OUR CHANNEL ⚠️', url="https://t.me/ott_movies_world"
                                 )
                         ]
                     ]
