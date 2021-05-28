@@ -62,7 +62,7 @@ async def auto_filter(bot, update):
     if filters:
         results.append(
                 [
-                    InlineKeyboardButton("⭕️JOIN OUR BACKUP CHANNEL⭕️", url="https://t.me/ott_movies_world2")
+                    InlineKeyboardButton("🔘 GET OUR ALL CHANNELS 🔘", url="https://t.me/mollywoodchannels")
                 ]
             )
         for filter in filters: # iterating through each files
